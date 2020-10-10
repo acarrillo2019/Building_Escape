@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Building_Escape.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_Escape.cpp.obj"
+"C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_EscapeGameModeBase.cpp.obj"
+"C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_Escape.init.gen.cpp.obj"
+"C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_EscapeGameModeBase.gen.cpp.obj"
+"C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Default.rc2.res"
+/OUT:"C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape.lib"
+/INCLUDE:IMPLEMENT_MODULE_Building_Escape

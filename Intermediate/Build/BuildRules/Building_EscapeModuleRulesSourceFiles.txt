@@ -1,0 +1,3 @@
+C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape\Source\Building_Escape\Building_Escape.Build.cs
+C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape\Source\Building_Escape.Target.cs
+C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape\Source\Building_EscapeEditor.Target.cs

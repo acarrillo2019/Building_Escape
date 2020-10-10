@@ -1,0 +1,1243 @@
+﻿Log file open, 10/10/20 10:03:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Building_Escape
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.416503
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.10-17.03.58:283][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.10-17.03.58:283][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.10-17.03.58:283][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Engine.ini]
+[2020.10.10-17.03.58:283][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.10-17.03.58:283][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.10.10-17.03.58:283][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Engine.ini]
+[2020.10.10-17.03.58:283][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Engine.ini]
+[2020.10.10-17.03.58:283][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.10-17.03.58:283][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Engine.ini]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.10-17.03.58:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Engine.ini]
+[2020.10.10-17.03.58:284][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Engine.ini]
+[2020.10.10-17.03.58:290][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.10-17.03.58:290][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.10-17.03.58:291][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.10-17.03.58:291][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.10-17.03.58:291][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.10-17.03.58:307][  0]LogHAL: Display: Platform has ~ 32 GB [34263576576 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.10-17.03.58:307][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.10.10-17.03.58:307][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.10-17.03.58:307][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:307][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.10-17.03.58:307][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.10-17.03.58:307][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:307][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.10-17.03.58:307][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.10-17.03.58:308][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.10-17.03.58:309][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.10-17.03.58:309][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.10-17.03.58:309][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.10-17.03.58:309][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.10-17.03.58:309][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.10-17.03.58:309][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Scalability.ini]
+[2020.10.10-17.03.58:309][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.10-17.03.58:309][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.10-17.03.58:309][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.10-17.03.58:309][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.10-17.03.58:309][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.10-17.03.58:309][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Config/Windows/Engine.ini]
+[2020.10.10-17.03.58:309][  0]LogInit: Computer: BEASTMODE
+[2020.10.10-17.03.58:309][  0]LogInit: User: BeastMode
+[2020.10.10-17.03.58:309][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.10.10-17.03.58:309][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.10-17.03.58:310][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.10.10-17.03.58:310][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.10-17.03.58:310][  0]LogMemory: Process Physical Memory: 98.23 MB used, 98.23 MB peak
+[2020.10.10-17.03.58:310][  0]LogMemory: Process Virtual Memory: 93.51 MB used, 93.51 MB peak
+[2020.10.10-17.03.58:310][  0]LogMemory: Physical Memory: 13351.84 MB used,  19324.45 MB free, 32676.29 MB total
+[2020.10.10-17.03.58:310][  0]LogMemory: Virtual Memory: 4662.60 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.10.10-17.03.58:342][  0]LogInit: Using OS detected language (en-US).
+[2020.10.10-17.03.58:343][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.10-17.03.58:343][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.10-17.03.58:575][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.10-17.03.58:631][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.10-17.03.58:631][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.10-17.03.58:883][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.10-17.03.58:883][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.10-17.03.58:986][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.10.10-17.03.58:987][  0]LogD3D11RHI:       8079/0/16338 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.10.10-17.03.58:990][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.10-17.03.58:990][  0]LogD3D11RHI:       0/0/16338 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.10-17.03.58:990][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.10-17.03.59:003][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.10-17.03.59:003][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.10-17.03.59:003][  0]LogWindows: EnumDisplayDevices:
+[2020.10.10-17.03.59:004][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.10.10-17.03.59:004][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.10.10-17.03.59:004][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.10.10-17.03.59:005][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.10.10-17.03.59:005][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.10.10-17.03.59:005][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.10.10-17.03.59:005][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.10.10-17.03.59:005][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.10.10-17.03.59:005][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.10.10-17.03.59:076][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.10-17.03.59:083][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.10.10-17.03.59:083][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.10.10-17.03.59:083][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.10.10-17.03.59:093][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.10-17.04.01:752][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.10.10-17.04.01:781][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.10.10-17.04.01:812][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.10.10-17.04.01:843][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.10.10-17.04.01:874][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.10.10-17.04.01:906][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.10.10-17.04.01:935][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.10-17.04.01:965][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.10.10-17.04.01:978][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.10.10-17.04.02:159][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.10.10-17.04.02:162][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.10.10-17.04.02:237][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.10.10-17.04.02:237][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.10.10-17.04.02:281][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.10.10-17.04.02:281][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.10.10-17.04.02:302][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.10.10-17.04.02:323][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.10-17.04.02:341][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.10.10-17.04.02:356][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.10.10-17.04.02:412][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.10.10-17.04.02:412][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.10.10-17.04.02:413][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.10-17.04.02:422][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.10-17.04.02:486][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Intermediate/Shaders/WorkingDirectory/3904/).
+[2020.10.10-17.04.02:486][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Beast Mode/AppData/Local/Temp/UnrealShaderWorkingDir/13B5C37E4CBF377655174986CFAAD409/'.
+[2020.10.10-17.04.02:490][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.10-17.04.02:490][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.10-17.04.02:490][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.10-17.04.03:128][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.10-17.04.03:178][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Beast Mode/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.10.10-17.04.03:178][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Beast Mode/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.10.10-17.04.03:178][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.10-17.04.03:178][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.10-17.04.03:178][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.10-17.04.03:178][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.10-17.04.03:192][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.10-17.04.03:195][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.10.10-17.04.03:208][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Beast Mode/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.10-17.04.03:208][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.10-17.04.03:208][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.10-17.04.03:230][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.10-17.04.03:231][  0]LogSlate: Using FreeType 2.6.0
+[2020.10.10-17.04.03:231][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.10-17.04.03:320][  0]LogAssetRegistry: FAssetRegistry took 0.0341 seconds to start up
+[2020.10.10-17.04.03:680][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.10-17.04.03:822][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.10-17.04.03:822][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.10-17.04.03:822][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.10-17.04.03:822][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.10-17.04.03:822][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.10-17.04.03:832][  0]LogNetVersion: Building_Escape 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2929274254)
+[2020.10.10-17.04.04:300][  0]LogPackageLocalizationCache: Processed 17 localized package path(s) for 1 prioritized culture(s) in 0.098256 seconds
+[2020.10.10-17.04.04:312][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.10.10-17.04.04:312][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.10.10-17.04.04:312][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.10-17.04.05:689][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.10-17.04.05:728][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.10-17.04.05:913][  0]SourceControl: Source control is disabled
+[2020.10.10-17.04.05:913][  0]SourceControl: Source control is disabled
+[2020.10.10-17.04.05:915][  0]SourceControl: Source control is disabled
+[2020.10.10-17.04.05:916][  0]SourceControl: Source control is disabled
+[2020.10.10-17.04.06:138][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.10-17.04.06:285][  0]LogOcInput: OculusInput pre-init called
+[2020.10.10-17.04.07:135][  0]LogPython: Python Scripts search path: ../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/Scripts
+[2020.10.10-17.04.07:135][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2020.10.10-17.04.07:135][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2020.10.10-17.04.07:426][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2020.10.10-17.04.07:426][  0]LogPython: 
+
+[2020.10.10-17.04.07:426][  0]LogPython: C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\UnrealEnginePython\
+[2020.10.10-17.04.07:426][  0]LogPython: 
+
+[2020.10.10-17.04.07:544][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2020.10.10-17.04.07:544][  0]LogPython: 
+
+[2020.10.10-17.04.07:545][  0]LogPython: ue_site Python module successfully imported
+[2020.10.10-17.04.09:637][  0]LogEngine: Initializing Engine...
+[2020.10.10-17.04.09:638][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.10-17.04.09:640][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.10-17.04.09:969][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.10-17.04.09:983][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.10-17.04.10:008][  0]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.10-17.04.10:039][  0]LogInit: FAudioDevice initialized.
+[2020.10.10-17.04.10:039][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.10-17.04.10:112][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/Beast Mode/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.10.10-17.04.10:121][  0]LogInit: Texture streaming: Enabled
+[2020.10.10-17.04.10:140][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.10-17.04.10:165][  0]LogInit: Transaction tracking system initialized
+[2020.10.10-17.04.10:190][  0]BlueprintLog: New page: Editor Load
+[2020.10.10-17.04.10:338][  0]LocalizationService: Localization service is disabled
+[2020.10.10-17.04.10:750][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/' took 0.01s
+[2020.10.10-17.04.10:750][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.10-17.04.10:750][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.10-17.04.12:457][  0]SourceControl: Source control is disabled
+[2020.10.10-17.04.12:458][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.22/FeaturePacks/StarterContent.upack)
+[2020.10.10-17.04.12:463][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.10.10-17.04.12:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.10.10-17.04.12:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.10.10-17.04.12:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.10.10-17.04.12:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.10.10-17.04.12:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.10.10-17.04.12:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.10.10-17.04.12:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.10.10-17.04.12:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.10.10-17.04.12:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.10.10-17.04.12:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.10.10-17.04.12:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.10.10-17.04.12:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.10.10-17.04.12:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.10.10-17.04.12:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.10.10-17.04.12:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.10.10-17.04.12:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.10.10-17.04.12:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.10.10-17.04.12:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Fire01.uasset"
+[2020.10.10-17.04.12:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.10.10-17.04.12:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.10.10-17.04.12:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.10.10-17.04.12:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Light01.uasset"
+[2020.10.10-17.04.12:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.10.10-17.04.12:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Light02.uasset"
+[2020.10.10-17.04.12:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.10.10-17.04.12:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.10.10-17.04.12:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.10.10-17.04.12:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.10.10-17.04.12:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.10.10-17.04.12:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.10.10-17.04.12:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.10.10-17.04.12:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.10.10-17.04.12:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.10.10-17.04.12:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Steam01.uasset"
+[2020.10.10-17.04.12:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.10.10-17.04.12:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.10.10-17.04.12:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.10.10-17.04.12:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.10.10-17.04.12:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.10.10-17.04.12:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.10.10-17.04.12:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.10.10-17.04.12:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.10.10-17.04.12:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.10.10-17.04.12:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.10.10-17.04.12:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.10.10-17.04.12:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.10.10-17.04.12:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.10.10-17.04.12:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.10.10-17.04.12:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.10.10-17.04.12:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.10.10-17.04.12:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.10.10-17.04.12:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.10.10-17.04.12:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.10.10-17.04.12:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.10.10-17.04.12:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.10.10-17.04.12:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.10.10-17.04.12:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Maps/StarterMap.umap"
+[2020.10.10-17.04.12:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.10.10-17.04.12:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.10.10-17.04.12:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.10.10-17.04.12:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.10.10-17.04.12:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.10.10-17.04.12:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.10.10-17.04.12:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.10.10-17.04.12:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.10.10-17.04.12:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.10.10-17.04.12:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.10.10-17.04.12:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.10.10-17.04.12:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.10.10-17.04.12:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.10.10-17.04.12:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.10.10-17.04.12:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.10.10-17.04.12:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.10.10-17.04.12:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.10.10-17.04.12:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.10.10-17.04.12:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.10.10-17.04.12:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.10.10-17.04.12:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.10.10-17.04.12:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.10.10-17.04.12:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.10.10-17.04.12:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.10.10-17.04.12:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.10.10-17.04.12:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.10.10-17.04.12:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.10.10-17.04.12:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.10.10-17.04.12:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.10.10-17.04.12:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.10.10-17.04.12:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.10.10-17.04.12:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.10.10-17.04.12:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.10.10-17.04.13:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.10.10-17.04.13:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.10.10-17.04.13:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.10.10-17.04.13:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.10.10-17.04.13:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.10.10-17.04.13:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.10.10-17.04.13:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.10.10-17.04.13:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.10.10-17.04.13:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.10.10-17.04.13:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.10.10-17.04.13:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.10.10-17.04.13:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.10.10-17.04.13:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.10.10-17.04.13:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.10.10-17.04.13:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.10.10-17.04.13:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.10.10-17.04.13:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.10.10-17.04.13:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.10.10-17.04.13:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.10.10-17.04.13:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.10.10-17.04.13:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.10.10-17.04.13:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.10.10-17.04.13:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.10.10-17.04.13:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.10.10-17.04.13:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.10.10-17.04.13:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.10.10-17.04.13:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.10.10-17.04.13:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.10.10-17.04.13:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.10.10-17.04.13:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.10.10-17.04.13:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.10.10-17.04.13:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.10.10-17.04.13:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_Door.uasset"
+[2020.10.10-17.04.13:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.10.10-17.04.13:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.10.10-17.04.13:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.10.10-17.04.13:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.10.10-17.04.13:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.10.10-17.04.13:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.10.10-17.04.13:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.10.10-17.04.13:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.10.10-17.04.13:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.10.10-17.04.13:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.10.10-17.04.13:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.10.10-17.04.13:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.10.10-17.04.13:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.10.10-17.04.13:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.10.10-17.04.13:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.10.10-17.04.13:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.10.10-17.04.13:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.10.10-17.04.13:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.10.10-17.04.13:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.10.10-17.04.13:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.10.10-17.04.13:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.10.10-17.04.13:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.10.10-17.04.13:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.10.10-17.04.13:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.10.10-17.04.13:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.10.10-17.04.13:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.10.10-17.04.13:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.10.10-17.04.13:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.10.10-17.04.13:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.10.10-17.04.13:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.10.10-17.04.13:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.10.10-17.04.13:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.10.10-17.04.13:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.10.10-17.04.13:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.10.10-17.04.13:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.10.10-17.04.13:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.10.10-17.04.13:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.10.10-17.04.13:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.10.10-17.04.13:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.10.10-17.04.13:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.10.10-17.04.13:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.10.10-17.04.13:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.10.10-17.04.13:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.10.10-17.04.13:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.10.10-17.04.13:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.10.10-17.04.13:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.10.10-17.04.13:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.10.10-17.04.13:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.10.10-17.04.13:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.10.10-17.04.13:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.10.10-17.04.13:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.10.10-17.04.13:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.10.10-17.04.13:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.10.10-17.04.13:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.10.10-17.04.13:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.10.10-17.04.13:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.10.10-17.04.13:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.10.10-17.04.13:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.10.10-17.04.13:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.10.10-17.04.13:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.10.10-17.04.13:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.10.10-17.04.13:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.10.10-17.04.13:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.10.10-17.04.13:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.10.10-17.04.13:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.10.10-17.04.13:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.10.10-17.04.13:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.10.10-17.04.13:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.10.10-17.04.13:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.10.10-17.04.13:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.10.10-17.04.13:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.10.10-17.04.13:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.10.10-17.04.13:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.10.10-17.04.13:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.10.10-17.04.13:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.10.10-17.04.13:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.10.10-17.04.13:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.10.10-17.04.13:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.10.10-17.04.13:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.10.10-17.04.13:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.10.10-17.04.13:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.10.10-17.04.13:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.10.10-17.04.13:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.10.10-17.04.13:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.10.10-17.04.13:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.10.10-17.04.13:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.10.10-17.04.13:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.10.10-17.04.13:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.10.10-17.04.13:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.10.10-17.04.13:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.10.10-17.04.13:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.10.10-17.04.13:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.10.10-17.04.13:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.10.10-17.04.13:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.10.10-17.04.13:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.10.10-17.04.13:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.10.10-17.04.13:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.10.10-17.04.13:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.10.10-17.04.13:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.10.10-17.04.13:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.10.10-17.04.13:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.10.10-17.04.13:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.10.10-17.04.14:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.10.10-17.04.14:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.10.10-17.04.14:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.10.10-17.04.14:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.10.10-17.04.14:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.10.10-17.04.14:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.10.10-17.04.14:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.10.10-17.04.14:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.10.10-17.04.14:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.10.10-17.04.14:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.10.10-17.04.14:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.10.10-17.04.14:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.10.10-17.04.14:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.10.10-17.04.14:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.10.10-17.04.14:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.10.10-17.04.14:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.10.10-17.04.14:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.10.10-17.04.14:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.10.10-17.04.14:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.10.10-17.04.14:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.10.10-17.04.14:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.10.10-17.04.14:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.10.10-17.04.14:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.10.10-17.04.14:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.10.10-17.04.14:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.10.10-17.04.14:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.10.10-17.04.14:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.10.10-17.04.14:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.10.10-17.04.14:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.10.10-17.04.14:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.10.10-17.04.14:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.10.10-17.04.14:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.10.10-17.04.14:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.10.10-17.04.14:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.10.10-17.04.14:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.10.10-17.04.14:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.10.10-17.04.14:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.10.10-17.04.14:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.10.10-17.04.14:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.10.10-17.04.14:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.10.10-17.04.14:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.10.10-17.04.14:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.10.10-17.04.14:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.10.10-17.04.14:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.10.10-17.04.14:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.10.10-17.04.14:447][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.10.10-17.04.14:527][  0]LogSavePackage: Moving '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Floor_400x400A100155E4FCB3206AB3DE890E3E68DB5.tmp' to '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.10.10-17.04.14:533][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.10.10-17.04.14:537][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.10-17.04.14:537][  0]LightingResults: New page: Lighting Build
+[2020.10.10-17.04.14:540][  0]MapCheck: New page: Map Check
+[2020.10.10-17.04.14:540][  0]LightingResults: New page: Lighting Build
+[2020.10.10-17.04.14:572][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.10.10-17.04.14:807][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.10-17.04.14:816][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.10-17.04.14:850][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.10.10-17.04.14:850][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.10-17.04.14:850][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2020.10.10-17.04.14:850][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.313
+[2020.10.10-17.04.14:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-17.04.15:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-17.04.15:011][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-17.04.15:020][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-17.04.15:027][  0]LogCollectionManager: Loaded 0 collections in 0.001726 seconds
+[2020.10.10-17.04.15:073][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Saved/Collections/' took 0.01s
+[2020.10.10-17.04.15:073][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/Developers/BeastMode/Collections/' took 0.01s
+[2020.10.10-17.04.15:073][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape/Content/Collections/' took 0.01s
+[2020.10.10-17.04.15:073][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.10.10-17.04.15:085][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2884 classes and 735 folders.
+[2020.10.10-17.04.15:096][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.10.10-17.04.15:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.10-17.04.15:156][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.10-17.04.15:159][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.10.10-17.04.15:174][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.10-17.04.15:176][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.10-17.04.15:183][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.10-17.04.15:226][  0]LogRenderer: Reallocating scene render targets to support 1100x640 Format 10 NumSamples 1 (Frame:1).
+[2020.10.10-17.04.15:280][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.10-17.04.15:403][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.10.10-17.04.15:404][  0]LogLoad: (Engine Initialization) Total time: 19.35 seconds
+[2020.10.10-17.04.15:404][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.10-17.04.15:451][  0]LogAssetRegistry: Asset discovery search completed in 12.1533 seconds
+[2020.10.10-17.04.15:454][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.10.10-17.04.15:454][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2020.10.10-17.04.15:455][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.10-17.04.15:660][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2020.10.10-17.05.04:233][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.10-17.05.04:377][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.10.10-17.05.04:421][554]LogSlate: Window 'Building_Escape - Unreal Editor' being destroyed
+[2020.10.10-17.05.04:422][554]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.10-17.05.04:602][555]Cmd: QUIT_EDITOR
+[2020.10.10-17.05.04:634][555]LogExit: Preparing to exit.
+[2020.10.10-17.05.04:792][555]LogExit: Editor shut down
+[2020.10.10-17.05.04:793][555]LogExit: Transaction tracking system shut down
+[2020.10.10-17.05.05:055][555]LogExit: Object subsystem successfully closed.
+[2020.10.10-17.05.05:086][555]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.10.10-17.05.05:092][555]LogD3D11RHI: Shutdown
+[2020.10.10-17.05.05:092][555]LogD3D11RHI: CleanupD3DDevice
+[2020.10.10-17.05.05:093][555]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.10.10-17.05.05:093][555]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.10.10-17.05.05:093][555]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.10.10-17.05.05:093][555]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.10.10-17.05.05:093][555]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.10.10-17.05.05:093][555]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.10.10-17.05.05:192][555]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.10.10-17.05.05:255][555]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (692)
+[2020.10.10-17.05.05:255][555]LogModuleManager: Shutting down and abandoning module SceneOutliner (690)
+[2020.10.10-17.05.05:255][555]LogModuleManager: Shutting down and abandoning module AddContentDialog (688)
+[2020.10.10-17.05.05:255][555]LogModuleManager: Shutting down and abandoning module WidgetCarousel (687)
+[2020.10.10-17.05.05:255][555]LogModuleManager: Shutting down and abandoning module EditorWidgets (684)
+[2020.10.10-17.05.05:255][555]LogModuleManager: Shutting down and abandoning module CollectionManager (682)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module StatsViewer (680)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module FoliageEdit (678)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module LandscapeEditor (676)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module MeshPaintMode (674)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (672)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module ActorPickerMode (670)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module GeometryMode (668)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module TextureAlignMode (666)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module BspMode (664)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (662)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (660)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module AutomationWorker (658)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (656)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (654)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (652)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module OculusMR (650)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (648)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (646)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (644)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module PlacementMode (643)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module MaterialEditor (642)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (638)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (636)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (634)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (632)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (630)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module WebMMedia (628)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (626)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (624)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module SequenceRecorder (623)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (620)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (618)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (616)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (614)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (612)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (610)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (608)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (606)
+[2020.10.10-17.05.05:256][555]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (604)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (602)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (600)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module CharacterAI (598)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module SmartSnapping (596)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module SessionServices (594)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module MeshPaint (592)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module ViewportSnapping (590)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module ViewportInteraction (588)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module ClothPainter (586)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (585)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module LogVisualizer (582)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module IntroTutorials (580)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (579)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (576)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (574)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (572)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (570)
+[2020.10.10-17.05.05:257][555]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (569)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (566)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (564)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (562)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (560)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (558)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module InputBindingEditor (556)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module MergeActors (554)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (552)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module LocalizationService (551)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module HardwareTargeting (548)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (546)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module UndoHistory (544)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module XmlParser (542)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module Blutility (540)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (538)
+[2020.10.10-17.05.05:481][555]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (537)
+[2020.10.10-17.05.05:482][555]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (534)
+[2020.10.10-17.05.05:482][555]LogModuleManager: Shutting down and abandoning module SettingsEditor (532)
+[2020.10.10-17.05.05:482][555]LogModuleManager: Shutting down and abandoning module ProjectLauncher (530)
+[2020.10.10-17.05.05:482][555]LogModuleManager: Shutting down and abandoning module SessionFrontend (528)
+[2020.10.10-17.05.05:482][555]LogModuleManager: Shutting down and abandoning module ProfilerClient (526)
+[2020.10.10-17.05.05:482][555]LogModuleManager: Shutting down and abandoning module DeviceManager (524)
+[2020.10.10-17.05.05:482][555]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (523)
+[2020.10.10-17.05.05:536][555]LogModuleManager: Shutting down and abandoning module AutomationController (520)
+[2020.10.10-17.05.05:536][555]LogModuleManager: Shutting down and abandoning module AutomationWindow (518)
+[2020.10.10-17.05.05:536][555]LogModuleManager: Shutting down and abandoning module Layers (516)
+[2020.10.10-17.05.05:536][555]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (514)
+[2020.10.10-17.05.05:536][555]LogModuleManager: Shutting down and abandoning module DetailCustomizations (512)
+[2020.10.10-17.05.05:536][555]LogModuleManager: Shutting down and abandoning module PackagesDialog (510)
+[2020.10.10-17.05.05:536][555]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (508)
+[2020.10.10-17.05.05:536][555]LogModuleManager: Shutting down and abandoning module Persona (506)
+[2020.10.10-17.05.05:537][555]LogModuleManager: Shutting down and abandoning module AnimGraph (505)
+[2020.10.10-17.05.05:537][555]LogModuleManager: Shutting down and abandoning module Kismet (502)
+[2020.10.10-17.05.05:537][555]LogModuleManager: Shutting down and abandoning module GraphEditor (500)
+[2020.10.10-17.05.05:537][555]LogModuleManager: Shutting down and abandoning module ClassViewer (498)
+[2020.10.10-17.05.05:537][555]LogModuleManager: Shutting down and abandoning module Toolbox (496)
+[2020.10.10-17.05.05:537][555]LogModuleManager: Shutting down and abandoning module DesktopPlatform (495)
+[2020.10.10-17.05.05:537][555]LogModuleManager: Shutting down and abandoning module ModuleUI (492)
+[2020.10.10-17.05.05:537][555]LogModuleManager: Shutting down and abandoning module MovieSceneTools (490)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module OutputLog (488)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module GammaUI (486)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module Documentation (484)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module LiveCoding (482)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module LevelSequence (480)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (478)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module MovieScene (476)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (474)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module LauncherPlatform (472)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module AnalyticsET (470)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module PortalServices (468)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module PortalRpc (466)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module MessagingRpc (464)
+[2020.10.10-17.05.05:538][555]LogModuleManager: Shutting down and abandoning module AIModule (462)
+[2020.10.10-17.05.05:539][555]LogModuleManager: Shutting down and abandoning module GameplayDebugger (461)
+[2020.10.10-17.05.05:539][555]LogModuleManager: Shutting down and abandoning module AITestSuite (459)
+[2020.10.10-17.05.05:539][555]LogModuleManager: Shutting down and abandoning module NavigationSystem (457)
+[2020.10.10-17.05.05:539][555]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (454)
+[2020.10.10-17.05.05:544][555]LogModuleManager: Shutting down and abandoning module ProfilerService (452)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module TaskGraph (450)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (448)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module PythonEditor (446)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module VariantManager (444)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (442)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (441)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (440)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (437)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module MDLImporter (434)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module DatasmithGLTFImporter (432)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module DatasmithImporter (431)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module DatasmithDataPrepLibraries (428)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module DatasmithDataPrepEditor (426)
+[2020.10.10-17.05.05:645][555]LogModuleManager: Shutting down and abandoning module UnrealEnginePython (424)
+[2020.10.10-17.05.05:646][555]LogPython: Goodbye Python
+[2020.10.10-17.05.05:676][555]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2020.10.10-17.05.05:676][555]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2020.10.10-17.05.05:676][555]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2020.10.10-17.05.05:676][555]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2020.10.10-17.05.05:676][555]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2020.10.10-17.05.05:676][555]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2020.10.10-17.05.05:676][555]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module AndroidPermission (400)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (398)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (396)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module MediaCompositing (394)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module LinearTimecode (392)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module ImgMedia (390)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (388)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (386)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (384)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module HTML5Networking (382)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (380)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (378)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (372)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module BlastAuthoring (370)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module BackChannel (368)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module AppleVision (366)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (364)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module AppleImageUtils (362)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module AlembicImporter (360)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module AlembicLibrary (359)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module GeometryCache (358)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (357)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module VariantManagerContent (352)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (350)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (348)
+[2020.10.10-17.05.05:677][555]LogModuleManager: Shutting down and abandoning module PluginBrowser (346)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (344)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module PolygonModeling (342)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module MeshEditor (340)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (338)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module GLTFImporter (336)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (334)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (312)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module Building_Escape (298)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module PythonConsole (296)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.10.10-17.05.05:678][555]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.10.10-17.05.05:679][555]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.10.10-17.05.05:679][555]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.10.10-17.05.05:679][555]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.10.10-17.05.05:679][555]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.10.10-17.05.05:780][555]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.10.10-17.05.05:881][555]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.10.10-17.05.05:881][555]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.10.10-17.05.05:882][555]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.10.10-17.05.05:882][555]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.10.10-17.05.05:882][555]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.10.10-17.05.05:882][555]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.10.10-17.05.05:882][555]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.10.10-17.05.05:883][555]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.10.10-17.05.05:884][555]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.10.10-17.05.05:885][555]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.10.10-17.05.05:885][555]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.10.10-17.05.05:885][555]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.10.10-17.05.05:885][555]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.10.10-17.05.05:885][555]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.10.10-17.05.05:885][555]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.10.10-17.05.05:885][555]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.10.10-17.05.05:885][555]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.10.10-17.05.05:885][555]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.10.10-17.05.05:885][555]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.10.10-17.05.05:885][555]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.10.10-17.05.05:885][555]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.10.10-17.05.05:886][555]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.10.10-17.05.05:886][555]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.10.10-17.05.05:886][555]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.10.10-17.05.05:886][555]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.10.10-17.05.06:265][555]LogDerivedDataCache: Shutdown
+[2020.10.10-17.05.06:265][555]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.10.10-17.05.06:265][555]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.10.10-17.05.06:265][555]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.10.10-17.05.06:265][555]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.10.10-17.05.06:265][555]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.10.10-17.05.06:265][555]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.10.10-17.05.06:265][555]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.10.10-17.05.06:266][555]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.10.10-17.05.06:267][555]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.10.10-17.05.06:267][555]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.10.10-17.05.06:267][555]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.10.10-17.05.06:267][555]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.10.10-17.05.06:268][555]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.10.10-17.05.06:268][555]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.10.10-17.05.06:273][555]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.10.10-17.05.06:273][555]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.10.10-17.05.06:273][555]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.10.10-17.05.06:273][555]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.10.10-17.05.06:273][555]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.10.10-17.05.06:273][555]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.10.10-17.05.06:273][555]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.10.10-17.05.06:273][555]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.10.10-17.05.06:273][555]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.10.10-17.05.06:273][555]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.10.10-17.05.06:273][555]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.10.10-17.05.06:274][555]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.10.10-17.05.06:274][555]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.10.10-17.05.06:274][555]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.10.10-17.05.06:274][555]LogHMD: Freeing OpenVRDLLHandle.
+[2020.10.10-17.05.06:274][555]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.10.10-17.05.06:274][555]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.10.10-17.05.06:274][555]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.10.10-17.05.06:274][555]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.10.10-17.05.06:274][555]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.10.10-17.05.06:275][555]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.10.10-17.05.06:275][555]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.10.10-17.05.06:286][555]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.10.10-17.05.06:287][555]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.10.10-17.05.06:287][555]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B56E7448B-47D6-4015-D187-F4BBFAA21F89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.0-5660361%2B%2B%2BUE4%2BRelease-4.22&UserID=ac3f3b2a4bcddc3fad5f93b7562662d6%7C71cf5b7f3c874f98860c2f83435fdf53%7C746562d8-1a07-4561-b813-024670b4831e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.10.10-17.05.06:315][555]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.10.10-17.05.06:316][555]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.10.10-17.05.06:318][555]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.10.10-17.05.06:324][555]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.10.10-17.05.06:325][555]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.10.10-17.05.06:346][555]LogExit: Exiting.
+[2020.10.10-17.05.06:366][555]Log file closed, 10/10/20 10:05:06
