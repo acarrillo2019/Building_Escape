@@ -1,4 +1,5 @@
-/MANIFEST:NO
+/MANIFEST:EMBED
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.25\Engine\Build\Windows\Resources\Default-Win64.manifest"
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -6,7 +7,7 @@
 /SUBSYSTEM:WINDOWS
 /FIXED:No
 /NXCOMPAT
-/STACK:5000000
+/STACK:12000000
 /DELAY:UNLOAD
 /DLL
 /PDBALTPATH:%_PDB%
@@ -17,9 +18,10 @@
 /ignore:4099
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023\lib\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -34,9 +36,11 @@
 "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h.obj"
 "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_Escape.cpp.obj"
 "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_EscapeGameModeBase.cpp.obj"
+"C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\OpenDoor.cpp.obj"
 "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\WorldPosition.cpp.obj"
 "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_Escape.init.gen.cpp.obj"
 "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_EscapeGameModeBase.gen.cpp.obj"
+"C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\OpenDoor.gen.cpp.obj"
 "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\WorldPosition.gen.cpp.obj"
 "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Default.rc2.res"
 "delayimp.lib"
@@ -63,10 +67,10 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
-"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
-"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
-"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
 /OUT:"C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Binaries\Win64\UE4Editor-Building_Escape.dll"
 /IMPLIB:"C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape.suppressed.lib"
 /PDB:"C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Binaries\Win64\UE4Editor-Building_Escape.pdb"

@@ -1,2 +1,2 @@
 C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Definitions.Building_Escape.h
-c:\users\beast mode\desktop\c++ projects\building_escape\source\building_escape\Building_Escape.h
+C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Source\Building_Escape\Building_Escape.h

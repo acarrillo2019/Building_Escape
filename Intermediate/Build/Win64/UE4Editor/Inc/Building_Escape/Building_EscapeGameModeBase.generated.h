@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -13,6 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BUILDING_ESCAPE_Building_EscapeGameModeBase_generated_h
 
+#define Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_SPARSE_DATA
 #define Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_RPC_WRAPPERS
 #define Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
 #define Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
@@ -20,7 +21,7 @@ private: \
 	static void StaticRegisterNativesABuilding_EscapeGameModeBase(); \
 	friend struct Z_Construct_UClass_ABuilding_EscapeGameModeBase_Statics; \
 public: \
-	DECLARE_CLASS(ABuilding_EscapeGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient), CASTCLASS_None, TEXT("/Script/Building_Escape"), NO_API) \
+	DECLARE_CLASS(ABuilding_EscapeGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/Building_Escape"), NO_API) \
 	DECLARE_SERIALIZER(ABuilding_EscapeGameModeBase)
 
 
@@ -29,7 +30,7 @@ private: \
 	static void StaticRegisterNativesABuilding_EscapeGameModeBase(); \
 	friend struct Z_Construct_UClass_ABuilding_EscapeGameModeBase_Statics; \
 public: \
-	DECLARE_CLASS(ABuilding_EscapeGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient), CASTCLASS_None, TEXT("/Script/Building_Escape"), NO_API) \
+	DECLARE_CLASS(ABuilding_EscapeGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/Building_Escape"), NO_API) \
 	DECLARE_SERIALIZER(ABuilding_EscapeGameModeBase)
 
 
@@ -65,6 +66,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABuilding_EscapeGameModeBase); \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_SPARSE_DATA \
 	Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_RPC_WRAPPERS \
 	Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_INCLASS \
 	Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_STANDARD_CONSTRUCTORS \
@@ -76,6 +78,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_SPARSE_DATA \
 	Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 	Building_Escape_Source_Building_Escape_Building_EscapeGameModeBase_h_15_ENHANCED_CONSTRUCTORS \

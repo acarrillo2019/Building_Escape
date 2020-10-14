@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -40,6 +40,7 @@ void EmptyLinkFunctionForGeneratedCodeBuilding_EscapeGameModeBase() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABuilding_EscapeGameModeBase_Statics::Class_MetaDataParams[] = {
+		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "Building_EscapeGameModeBase.h" },
 		{ "ModuleRelativePath", "Building_EscapeGameModeBase.h" },
@@ -51,18 +52,18 @@ void EmptyLinkFunctionForGeneratedCodeBuilding_EscapeGameModeBase() {}
 	};
 	const UE4CodeGen_Private::FClassParams Z_Construct_UClass_ABuilding_EscapeGameModeBase_Statics::ClassParams = {
 		&ABuilding_EscapeGameModeBase::StaticClass,
-		nullptr,
+		"Game",
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
 		nullptr,
 		nullptr,
-		ARRAY_COUNT(DependentSingletons),
+		UE_ARRAY_COUNT(DependentSingletons),
 		0,
 		0,
 		0,
-		0x009002A8u,
-		METADATA_PARAMS(Z_Construct_UClass_ABuilding_EscapeGameModeBase_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_ABuilding_EscapeGameModeBase_Statics::Class_MetaDataParams))
+		0x009002ACu,
+		METADATA_PARAMS(Z_Construct_UClass_ABuilding_EscapeGameModeBase_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_ABuilding_EscapeGameModeBase_Statics::Class_MetaDataParams))
 	};
 	UClass* Z_Construct_UClass_ABuilding_EscapeGameModeBase()
 	{
@@ -73,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeBuilding_EscapeGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABuilding_EscapeGameModeBase, 400504601);
+	IMPLEMENT_CLASS(ABuilding_EscapeGameModeBase, 2260936581);
 	template<> BUILDING_ESCAPE_API UClass* StaticClass<ABuilding_EscapeGameModeBase>()
 	{
 		return ABuilding_EscapeGameModeBase::StaticClass();
