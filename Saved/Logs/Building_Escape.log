@@ -20513,3 +20513,781 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.16-19.25.15:271][118]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D6F8A56700), frame # 4816118
 [2020.10.16-19.25.15:278][118]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
 [2020.10.16-19.25.15:455][125]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.10.16-19.36.24:441][292]BlueprintLog: New page: Compile DefaultPawn_BP
+[2020.10.16-19.36.24:521][292]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.10.16-19.36.25:918][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DefaultPawn_BP" FILE="../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Content/Blueprints/DefaultPawn_BP.uasset" SILENT=true
+[2020.10.16-19.36.25:972][368]LogSavePackage: Moving '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Saved/DefaultPawn_BPB7F8E1C74B9DFB9A40E3F0AFCC7459A5.tmp' to '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Content/Blueprints/DefaultPawn_BP.uasset'
+[2020.10.16-19.36.25:991][368]AssetCheck: New page: Asset Save: DefaultPawn_BP
+[2020.10.16-19.36.25:991][368]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP
+[2020.10.16-19.36.29:564][572]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.10.16-19.36.29:621][572]LogSavePackage: Moving '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Saved/BuildingEscapeBED518CA4D93CCDEC4815DB753C97B53.tmp' to '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Content/Maps/BuildingEscape.umap'
+[2020.10.16-19.36.29:786][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuildingEscape_BuiltData" FILE="../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Content/Maps/BuildingEscape_BuiltData.uasset" SILENT=true
+[2020.10.16-19.36.29:834][572]LogSavePackage: Moving '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Saved/BuildingEscape_BuiltDataC70CD92141D59E0B0325D88E71D0C671.tmp' to '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Content/Maps/BuildingEscape_BuiltData.uasset'
+[2020.10.16-19.36.29:855][572]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.16-19.36.29:855][572]LogContentValidation: Display: Validating World /Game/Maps/BuildingEscape.BuildingEscape
+[2020.10.16-19.36.29:856][572]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuildingEscape_BuiltData.BuildingEscape_BuiltData
+[2020.10.16-19.36.40:223][190]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-19.36.40:243][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-19.36.40:243][190]PIE: New page: PIE session: BuildingEscape (Oct 16, 2020, 5:36:40 AM)
+[2020.10.16-19.36.40:269][190]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-19.36.40:276][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007627s)
+[2020.10.16-19.36.40:278][190]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-19.36.40:278][190]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6CF29A000), frame # 4854190
+[2020.10.16-19.36.40:278][190]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D6C68B4A40), frame # 4854190
+[2020.10.16-19.36.40:278][190]LogPlayLevel: PIE: World Init took: (0.001552s)
+[2020.10.16-19.36.40:278][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.009399s)
+[2020.10.16-19.36.40:319][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.10.16-19.36.40:322][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-19.36.40:322][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-19.36.40:322][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-19.36.40:322][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-19.36.40:322][190]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-19.36.40:322][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-19.36.40:322][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-19.36.40:322][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-19.36.40:323][190]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-19.36.40:323][190]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-19.36.40:329][190]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-19.36.40:329][190]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-19.36.40:349][190]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-19.36.40:349][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-19.36.40:349][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-19.36.40:349][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-19.36.40:351][190]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-19.36.40:372][190]LogInit: FAudioDevice initialized.
+[2020.10.16-19.36.40:384][190]LogLoad: Game class is 'MyBuilding_EscapeGameModeBase_BP_C'
+[2020.10.16-19.36.40:386][190]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.16-12.36.40
+[2020.10.16-19.36.40:386][190]LogWorld: Bringing up level for play took: 0.001111
+[2020.10.16-19.36.40:386][190]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.10.16-19.36.40:388][190]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-19.36.40:389][190]LogTemp: Warning: Grabber reporting for duty!
+[2020.10.16-19.36.40:389][190]PIE: Server logged in
+[2020.10.16-19.36.40:391][190]PIE: Play in editor total start time 0.148 seconds.
+[2020.10.16-19.36.40:391][190]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999580 R=0.000000
+[2020.10.16-19.36.40:413][191]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:428][192]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:444][193]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:461][194]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:478][195]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:494][196]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:511][197]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:528][198]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:545][199]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:561][200]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:578][201]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:595][202]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:612][203]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:629][204]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:645][205]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:662][206]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:680][207]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:697][208]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:722][209]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:739][210]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:755][211]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:772][212]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:789][213]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:805][214]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:823][215]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:839][216]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:856][217]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:872][218]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:890][219]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:906][220]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:922][221]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:939][222]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:956][223]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:972][224]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.40:989][225]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:008][226]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:021][227]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:039][228]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:055][229]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:071][230]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:088][231]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:105][232]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:121][233]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:138][234]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:155][235]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:172][236]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:188][237]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:205][238]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:222][239]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:239][240]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:255][241]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:272][242]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:288][243]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:305][244]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:322][245]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:338][246]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:355][247]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:423][251]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:439][252]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:455][253]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:472][254]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:489][255]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:506][256]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:524][257]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:542][258]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:558][259]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:573][260]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:590][261]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:607][262]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:623][263]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:639][264]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:656][265]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:673][266]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:689][267]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:706][268]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:723][269]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:740][270]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:756][271]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:773][272]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:789][273]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:806][274]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:823][275]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:839][276]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:856][277]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:873][278]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:889][279]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:906][280]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:923][281]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:939][282]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:956][283]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:973][284]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.41:989][285]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:006][286]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:028][287]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:044][288]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:056][289]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:073][290]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:090][291]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:106][292]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:123][293]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:140][294]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:156][295]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:173][296]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:190][297]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:207][298]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:223][299]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:240][300]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:257][301]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:273][302]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:290][303]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:307][304]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:323][305]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:340][306]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:357][307]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:373][308]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:389][309]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:406][310]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:423][311]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:439][312]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:456][313]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:473][314]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:489][315]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:506][316]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:523][317]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:540][318]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:556][319]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:575][320]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:589][321]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:606][322]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:623][323]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:640][324]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:656][325]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:673][326]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:690][327]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:706][328]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:723][329]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:740][330]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:756][331]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:773][332]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:790][333]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:807][334]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:823][335]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:840][336]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:856][337]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:873][338]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:890][339]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:907][340]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:923][341]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:940][342]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:957][343]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:974][344]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.42:990][345]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:007][346]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:023][347]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:040][348]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:057][349]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:073][350]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:090][351]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:107][352]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:123][353]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:140][354]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:157][355]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:173][356]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:190][357]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:206][358]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:222][359]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:240][360]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:256][361]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:273][362]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:290][363]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:311][364]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:323][365]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:340][366]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:357][367]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:373][368]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:390][369]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:407][370]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:423][371]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:440][372]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:457][373]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:473][374]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:490][375]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:507][376]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:523][377]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:540][378]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:557][379]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:573][380]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:590][381]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:607][382]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:624][383]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:640][384]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:657][385]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:673][386]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:690][387]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:707][388]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:723][389]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:740][390]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:757][391]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:773][392]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:790][393]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:806][394]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:823][395]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:842][396]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:856][397]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:873][398]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:890][399]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:906][400]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:923][401]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:939][402]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:956][403]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:973][404]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.43:990][405]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:006][406]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:023][407]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:040][408]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:056][409]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:073][410]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:090][411]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:106][412]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:123][413]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:140][414]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:156][415]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:173][416]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:190][417]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:206][418]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:223][419]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:240][420]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:257][421]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:273][422]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:290][423]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:306][424]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:323][425]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:340][426]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:357][427]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:373][428]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:390][429]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:407][430]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:423][431]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:440][432]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:457][433]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:473][434]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:490][435]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:506][436]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:523][437]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:540][438]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:557][439]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:573][440]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:590][441]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:607][442]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:623][443]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:640][444]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:657][445]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:674][446]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:690][447]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:707][448]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:724][449]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:740][450]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:756][451]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:773][452]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:789][453]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:806][454]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:822][455]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:840][456]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:856][457]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:873][458]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:890][459]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:906][460]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:923][461]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:940][462]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:956][463]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:973][464]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.44:990][465]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:006][466]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:023][467]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:040][468]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:056][469]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:073][470]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:090][471]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:106][472]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:123][473]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:140][474]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:156][475]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:173][476]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:189][477]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:206][478]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:223][479]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:240][480]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:256][481]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:273][482]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:289][483]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:306][484]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:323][485]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:339][486]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:356][487]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:373][488]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:390][489]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:406][490]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:423][491]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:440][492]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:456][493]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:473][494]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:490][495]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:506][496]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:523][497]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:540][498]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:556][499]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:573][500]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:590][501]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:606][502]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:623][503]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:640][504]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:656][505]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:673][506]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:690][507]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:706][508]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:723][509]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:740][510]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:756][511]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:773][512]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:790][513]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:806][514]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:823][515]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:840][516]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:857][517]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:873][518]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:895][519]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:907][520]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:923][521]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:940][522]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:957][523]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:973][524]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.45:991][525]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:007][526]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:024][527]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:040][528]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:057][529]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:073][530]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:090][531]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:109][532]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:125][533]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:141][534]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:158][535]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:175][536]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:192][537]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:209][538]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:225][539]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:242][540]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:259][541]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:276][542]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:293][543]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:309][544]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:326][545]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:342][546]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:359][547]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:376][548]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:392][549]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:409][550]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:425][551]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:442][552]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:459][553]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:475][554]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:492][555]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:509][556]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:525][557]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:542][558]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:559][559]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:575][560]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:592][561]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:609][562]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:626][563]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:642][564]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:659][565]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:675][566]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:692][567]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:709][568]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:725][569]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:742][570]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:759][571]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:775][572]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:792][573]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:809][574]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:825][575]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:842][576]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:859][577]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:876][578]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:892][579]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:909][580]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:925][581]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:942][582]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:958][583]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:975][584]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.46:992][585]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:008][586]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:025][587]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:041][588]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:058][589]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:075][590]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:091][591]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:108][592]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:125][593]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:141][594]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:158][595]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:175][596]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:191][597]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:208][598]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:225][599]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:242][600]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:258][601]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:275][602]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:292][603]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:308][604]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:325][605]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:342][606]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:359][607]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:375][608]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:392][609]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:408][610]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:425][611]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:442][612]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:458][613]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:475][614]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:492][615]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:508][616]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:525][617]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:542][618]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:558][619]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:575][620]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:592][621]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:609][622]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:625][623]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:642][624]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:659][625]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:675][626]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:692][627]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:709][628]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:725][629]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:742][630]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:759][631]LogTemp: Warning: Location: X=5.000 Y=-380.000 Z=144.009, Rotation: P=0.000000 Y=89.999596 R=0.000000
+[2020.10.16-19.36.47:799][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-19.36.47:799][631]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-19.36.47:800][631]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-19.36.47:801][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-19.36.47:808][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-19.36.47:813][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-19.36.47:846][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-19.36.47:866][631]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D6C68B4A40), frame # 4854631
+[2020.10.16-19.36.47:866][631]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6CF29A000), frame # 4854631
+[2020.10.16-19.36.47:870][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.10.16-19.36.48:047][638]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.10.16-19.44.39:322][330]Candidate modules for hot reload:
+[2020.10.16-19.44.39:322][330]  Building_Escape
+[2020.10.16-19.44.39:322][330]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Building_Escape,5125 Building_EscapeEditor Win64 Development -Project="C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject" "C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject"  -IgnoreJunk]
+[2020.10.16-19.44.39:324][330]Warning: Starting HotReload took  0.0s.
+[2020.10.16-19.44.41:993][474]CompilerResultsLog: New page: Compilation - Oct 16, 2020, 5:44:41 AM
+[2020.10.16-19.44.41:993][474]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape).
+[2020.10.16-19.44.41:993][474]CompilerResultsLog: Building Building_EscapeEditor...
+[2020.10.16-19.44.41:993][474]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.16-19.44.41:993][474]CompilerResultsLog: [Upgrade]
+[2020.10.16-19.44.41:993][474]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.10.16-19.44.41:993][474]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.10.16-19.44.41:993][474]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.10.16-19.44.41:993][474]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.10.16-19.44.41:993][474]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Building_EscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.10.16-19.44.41:993][474]CompilerResultsLog: [Upgrade]
+[2020.10.16-19.44.41:993][474]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.10.16-19.44.41:993][474]CompilerResultsLog:   [1/4] Grabber.cpp
+[2020.10.16-19.44.41:993][474]CompilerResultsLog:   [2/4] UE4Editor-Building_Escape-5125.lib
+[2020.10.16-19.44.41:993][474]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-5125.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-5125.exp
+[2020.10.16-19.44.41:993][474]CompilerResultsLog:   [3/4] UE4Editor-Building_Escape-5125.dll
+[2020.10.16-19.44.41:994][474]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-5125.suppressed.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-5125.suppressed.exp
+[2020.10.16-19.44.41:994][474]CompilerResultsLog:   [4/4] Building_EscapeEditor.target
+[2020.10.16-19.44.41:994][474]CompilerResultsLog: Total time in Parallel executor: 1.72 seconds
+[2020.10.16-19.44.41:994][474]CompilerResultsLog: Total execution time: 2.58 seconds
+[2020.10.16-19.44.41:994][474]LogMainFrame: MainFrame: Module compiling took 2.676 seconds
+[2020.10.16-19.44.42:039][474]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2020.10.16-19.44.42:045][474]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.16-19.44.42:174][474]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3441 classes and 829 folders.
+[2020.10.16-19.44.42:174][474]Display: HotReload took  2.9s.
+[2020.10.16-19.44.51:304][999]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-19.44.51:325][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-19.44.51:325][999]PIE: New page: PIE session: BuildingEscape (Oct 16, 2020, 5:44:51 AM)
+[2020.10.16-19.44.51:326][999]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-19.44.51:333][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007265s)
+[2020.10.16-19.44.51:334][999]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-19.44.51:334][999]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6BE80B800), frame # 4879999
+[2020.10.16-19.44.51:334][999]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D6F9F9EC00), frame # 4879999
+[2020.10.16-19.44.51:334][999]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2020.10.16-19.44.51:334][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.008788s)
+[2020.10.16-19.44.51:426][999]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2020.10.16-19.44.51:430][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-19.44.51:430][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-19.44.51:430][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-19.44.51:430][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-19.44.51:430][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-19.44.51:431][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-19.44.51:431][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-19.44.51:431][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-19.44.51:431][999]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-19.44.51:431][999]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-19.44.51:437][999]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-19.44.51:437][999]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-19.44.51:457][999]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-19.44.51:458][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-19.44.51:458][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-19.44.51:458][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-19.44.51:459][999]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-19.44.51:474][999]LogInit: FAudioDevice initialized.
+[2020.10.16-19.44.51:483][999]LogLoad: Game class is 'MyBuilding_EscapeGameModeBase_BP_C'
+[2020.10.16-19.44.51:485][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.16-12.44.51
+[2020.10.16-19.44.51:485][999]LogWorld: Bringing up level for play took: 0.001057
+[2020.10.16-19.44.51:485][999]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.10.16-19.44.51:488][999]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-19.44.51:488][999]LogTemp: Warning: Grabber reporting for duty!
+[2020.10.16-19.44.51:488][999]PIE: Server logged in
+[2020.10.16-19.44.51:490][999]PIE: Play in editor total start time 0.168 seconds.
+[2020.10.16-19.45.31:896][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-19.45.31:896][414]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-19.45.31:897][414]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-19.45.31:897][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-19.45.31:911][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-19.45.31:919][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-19.45.31:976][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-19.45.31:977][414]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6BE80B800), frame # 4882414
+[2020.10.16-19.45.31:977][414]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D6F9F9EC00), frame # 4882414
+[2020.10.16-19.45.31:982][414]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.10.16-19.45.32:121][421]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.10.16-19.48.34:210][103]Candidate modules for hot reload:
+[2020.10.16-19.48.34:210][103]  Building_Escape
+[2020.10.16-19.48.34:210][103]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Building_Escape,4238 Building_EscapeEditor Win64 Development -Project="C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject" "C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject"  -IgnoreJunk]
+[2020.10.16-19.48.34:212][103]Warning: Starting HotReload took  0.0s.
+[2020.10.16-19.48.43:487][644]CompilerResultsLog: New page: Compilation - Oct 16, 2020, 5:48:43 AM
+[2020.10.16-19.48.43:487][644]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape).
+[2020.10.16-19.48.43:487][644]CompilerResultsLog: Parsing headers for Building_EscapeEditor
+[2020.10.16-19.48.43:488][644]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape.uproject" "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Building_EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Beast Mode\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: Reflection code generated for Building_EscapeEditor in 6.4814619 seconds
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: Building Building_EscapeEditor...
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: [Upgrade]
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Building_EscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: [Upgrade]
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: Building 5 actions with 12 processes...
+[2020.10.16-19.48.43:488][644]CompilerResultsLog:   [1/5] Grabber.cpp
+[2020.10.16-19.48.43:488][644]CompilerResultsLog:   [2/5] Grabber.gen.cpp
+[2020.10.16-19.48.43:488][644]CompilerResultsLog:   [3/5] UE4Editor-Building_Escape-4238.lib
+[2020.10.16-19.48.43:488][644]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-4238.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-4238.exp
+[2020.10.16-19.48.43:488][644]CompilerResultsLog:   [4/5] UE4Editor-Building_Escape-4238.dll
+[2020.10.16-19.48.43:488][644]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-4238.suppressed.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-4238.suppressed.exp
+[2020.10.16-19.48.43:488][644]CompilerResultsLog:   [5/5] Building_EscapeEditor.target
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: Total time in Parallel executor: 1.77 seconds
+[2020.10.16-19.48.43:488][644]CompilerResultsLog: Total execution time: 9.18 seconds
+[2020.10.16-19.48.43:488][644]LogMainFrame: MainFrame: Module compiling took 9.282 seconds
+[2020.10.16-19.48.43:520][644]LogClass: Could not find existing class Grabber in package /Script/Building_Escape for HotReload, assuming new class
+[2020.10.16-19.48.43:535][644]LogHotReload: Re-instancing Grabber after hot-reload.
+[2020.10.16-19.48.43:565][644]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2020.10.16-19.48.43:571][644]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.16-19.48.43:702][644]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3441 classes and 829 folders.
+[2020.10.16-19.48.43:702][644]Display: HotReload took  9.5s.
+[2020.10.16-19.48.45:339][721]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-19.48.45:371][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-19.48.45:371][721]PIE: New page: PIE session: BuildingEscape (Oct 16, 2020, 5:48:45 AM)
+[2020.10.16-19.48.45:372][721]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-19.48.45:379][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007854s)
+[2020.10.16-19.48.45:381][721]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-19.48.45:381][721]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6F617BE00), frame # 4892721
+[2020.10.16-19.48.45:381][721]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D6F61B4CC0), frame # 4892721
+[2020.10.16-19.48.45:381][721]LogPlayLevel: PIE: World Init took: (0.001529s)
+[2020.10.16-19.48.45:381][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.009609s)
+[2020.10.16-19.48.45:470][721]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2020.10.16-19.48.45:471][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-19.48.45:471][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-19.48.45:472][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-19.48.45:472][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-19.48.45:472][721]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-19.48.45:472][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-19.48.45:472][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-19.48.45:472][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-19.48.45:472][721]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-19.48.45:472][721]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-19.48.45:476][721]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-19.48.45:476][721]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-19.48.45:494][721]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-19.48.45:494][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-19.48.45:494][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-19.48.45:494][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-19.48.45:495][721]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-19.48.45:508][721]LogInit: FAudioDevice initialized.
+[2020.10.16-19.48.45:515][721]LogLoad: Game class is 'MyBuilding_EscapeGameModeBase_BP_C'
+[2020.10.16-19.48.45:516][721]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.16-12.48.45
+[2020.10.16-19.48.45:516][721]LogWorld: Bringing up level for play took: 0.000968
+[2020.10.16-19.48.45:516][721]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.10.16-19.48.45:518][721]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-19.48.45:519][721]LogTemp: Warning: Grabber reporting for duty!
+[2020.10.16-19.48.45:519][721]PIE: Server logged in
+[2020.10.16-19.48.45:520][721]PIE: Play in editor total start time 0.154 seconds.
+[2020.10.16-19.49.04:684][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-19.49.04:684][866]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-19.49.04:685][866]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-19.49.04:686][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-19.49.04:695][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-19.49.04:702][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-19.49.04:741][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-19.49.04:780][866]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D6F61B4CC0), frame # 4893866
+[2020.10.16-19.49.04:780][866]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6F617BE00), frame # 4893866
+[2020.10.16-19.49.04:797][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.10.16-19.49.04:966][873]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.10.16-19.51.00:660][814]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-19.51.00:679][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-19.51.00:679][814]PIE: New page: PIE session: BuildingEscape (Oct 16, 2020, 5:51:00 AM)
+[2020.10.16-19.51.00:679][814]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-19.51.00:686][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006711s)
+[2020.10.16-19.51.00:687][814]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-19.51.00:687][814]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6D0281800), frame # 4900814
+[2020.10.16-19.51.00:687][814]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D6F3B1EC00), frame # 4900814
+[2020.10.16-19.51.00:687][814]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2020.10.16-19.51.00:687][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.008005s)
+[2020.10.16-19.51.00:725][814]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.10.16-19.51.00:731][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-19.51.00:731][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-19.51.00:731][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-19.51.00:731][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-19.51.00:731][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-19.51.00:731][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-19.51.00:731][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-19.51.00:731][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-19.51.00:731][814]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-19.51.00:731][814]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-19.51.00:735][814]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-19.51.00:735][814]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-19.51.00:753][814]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-19.51.00:754][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-19.51.00:754][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-19.51.00:754][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-19.51.00:755][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-19.51.00:769][814]LogInit: FAudioDevice initialized.
+[2020.10.16-19.51.00:776][814]LogLoad: Game class is 'MyBuilding_EscapeGameModeBase_BP_C'
+[2020.10.16-19.51.00:778][814]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.16-12.51.00
+[2020.10.16-19.51.00:778][814]LogWorld: Bringing up level for play took: 0.000977
+[2020.10.16-19.51.00:778][814]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.10.16-19.51.00:780][814]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-19.51.00:780][814]LogTemp: Warning: Grabber reporting for duty!
+[2020.10.16-19.51.00:780][814]PIE: Server logged in
+[2020.10.16-19.51.00:781][814]PIE: Play in editor total start time 0.103 seconds.
+[2020.10.16-19.51.41:324][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-19.51.41:324][243]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-19.51.41:325][243]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-19.51.41:326][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-19.51.41:331][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-19.51.41:338][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-19.51.41:369][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-19.51.41:386][243]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D6F3B1EC00), frame # 4903243
+[2020.10.16-19.51.41:386][243]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6D0281800), frame # 4903243
+[2020.10.16-19.51.41:390][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.10.16-19.51.41:526][250]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.10.16-19.55.01:967][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2020.10.16-19.58.25:463][331]LogActorFactory: Actor Factory created Cylinder
+[2020.10.16-19.58.26:235][377]LogActorFactory: Actor Factory created Cylinder
+[2020.10.16-19.58.50:594][833]Cmd: DELETE
+[2020.10.16-19.58.50:594][833]Cmd: ACTOR DELETE
+[2020.10.16-19.58.50:599][833]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.16-19.58.50:644][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.10.16-19.58.50:651][833]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.10.16-19.58.54:333][ 51]LogActorFactory: Actor Factory created Cube
+[2020.10.16-19.58.55:234][105]LogActorFactory: Actor Factory created Cube
+[2020.10.16-19.59.49:426][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.10.16-19.59.49:500][321]LogSavePackage: Moving '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Saved/BuildingEscape_Auto915D0BCE7410B7B4CF5C646BF00CA844E.tmp' to '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Saved/Autosaves/Game/Maps/BuildingEscape_Auto9.umap'
+[2020.10.16-19.59.49:521][321]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/BuildingEscape' took 0.132
+[2020.10.16-19.59.49:521][321]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.132
+[2020.10.16-20.02.28:734][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2020.10.16-20.03.28:482][338]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-20.03.28:504][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-20.03.28:504][338]PIE: New page: PIE session: BuildingEscape (Oct 16, 2020, 6:03:28 AM)
+[2020.10.16-20.03.28:504][338]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-20.03.28:512][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007708s)
+[2020.10.16-20.03.28:513][338]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-20.03.28:513][338]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6A5A54200), frame # 4945338
+[2020.10.16-20.03.28:513][338]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D6A4864180), frame # 4945338
+[2020.10.16-20.03.28:513][338]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2020.10.16-20.03.28:513][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.009113s)
+[2020.10.16-20.03.28:549][338]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.10.16-20.03.28:555][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-20.03.28:555][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-20.03.28:555][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-20.03.28:555][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-20.03.28:555][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-20.03.28:555][338]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-20.03.28:555][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-20.03.28:555][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-20.03.28:556][338]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-20.03.28:556][338]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-20.03.28:561][338]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-20.03.28:561][338]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-20.03.28:580][338]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-20.03.28:581][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-20.03.28:581][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-20.03.28:581][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-20.03.28:581][338]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-20.03.28:596][338]LogInit: FAudioDevice initialized.
+[2020.10.16-20.03.28:604][338]LogLoad: Game class is 'MyBuilding_EscapeGameModeBase_BP_C'
+[2020.10.16-20.03.28:606][338]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.16-13.03.28
+[2020.10.16-20.03.28:606][338]LogWorld: Bringing up level for play took: 0.001064
+[2020.10.16-20.03.28:606][338]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.10.16-20.03.28:608][338]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-20.03.28:609][338]LogTemp: Warning: Grabber reporting for duty!
+[2020.10.16-20.03.28:609][338]PIE: Server logged in
+[2020.10.16-20.03.28:610][338]PIE: Play in editor total start time 0.11 seconds.
+[2020.10.16-20.03.58:589][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-20.03.58:589][129]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-20.03.58:590][129]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-20.03.58:590][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-20.03.58:596][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-20.03.58:605][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-20.03.58:636][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-20.03.58:657][129]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D6A4864180), frame # 4947129
+[2020.10.16-20.03.58:657][129]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6A5A54200), frame # 4947129
+[2020.10.16-20.03.58:661][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.10.16-20.03.58:799][136]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.10.16-20.05.55:760][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.10.16-20.05.55:817][140]LogSavePackage: Moving '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Saved/BuildingEscapeAC832D7244A17A0CF9E2D2A842061D8D.tmp' to '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Content/Maps/BuildingEscape.umap'
+[2020.10.16-20.05.55:970][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuildingEscape_BuiltData" FILE="../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Content/Maps/BuildingEscape_BuiltData.uasset" SILENT=true
+[2020.10.16-20.05.56:012][140]LogSavePackage: Moving '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Saved/BuildingEscape_BuiltData3425496A47E1FF064DCA389C2C18CDF8.tmp' to '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Content/Maps/BuildingEscape_BuiltData.uasset'
+[2020.10.16-20.05.56:034][140]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.16-20.05.56:034][140]LogContentValidation: Display: Validating World /Game/Maps/BuildingEscape.BuildingEscape
+[2020.10.16-20.05.56:034][140]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuildingEscape_BuiltData.BuildingEscape_BuiltData
