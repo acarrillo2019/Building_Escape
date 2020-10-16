@@ -4,8 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
+#include "Engine/TriggerVolume.h"
 #include "OpenDoor.generated.h"
-
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class BUILDING_ESCAPE_API UOpenDoor : public UActorComponent
@@ -23,6 +23,7 @@ protected:
 public:	
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+	void OPenDoor(float DeltaTime);
 
 private:
 
@@ -31,5 +32,11 @@ private:
 
 	UPROPERTY(EditAnywhere)
 	float TargetYaw = 90.f;
+
+	UPROPERTY(EditAnywhere)
+	ATriggerVolume* PressurePlate;
+
+	UPROPERTY(EditAnywhere)
+	AActor* ActorThatOpens;
 };
 
