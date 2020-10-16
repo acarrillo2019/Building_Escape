@@ -17420,3 +17420,649 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.16-04.06.03:252][ 22]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D673655000), frame # 1963022
 [2020.10.16-04.06.03:253][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
 [2020.10.16-04.06.03:386][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.10.16-04.14.45:474][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.16-04.14.45:477][792]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/BuildingEscape' took 0.025
+[2020.10.16-04.23.24:853][719]Candidate modules for hot reload:
+[2020.10.16-04.23.24:853][719]  Building_Escape
+[2020.10.16-04.23.24:853][719]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Building_Escape,9923 Building_EscapeEditor Win64 Development -Project="C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject" "C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject"  -IgnoreJunk]
+[2020.10.16-04.23.24:855][719]Warning: Starting HotReload took  0.0s.
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: New page: Compilation - Oct 15, 2020, 2:23:27 PM
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape).
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: Building Building_EscapeEditor...
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Building_EscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.10.16-04.23.27:472][860]CompilerResultsLog:   [1/4] OpenDoor.cpp
+[2020.10.16-04.23.27:472][860]CompilerResultsLog:   [2/4] UE4Editor-Building_Escape-9923.lib
+[2020.10.16-04.23.27:472][860]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-9923.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-9923.exp
+[2020.10.16-04.23.27:472][860]CompilerResultsLog:   [3/4] UE4Editor-Building_Escape-9923.dll
+[2020.10.16-04.23.27:472][860]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-9923.suppressed.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-9923.suppressed.exp
+[2020.10.16-04.23.27:472][860]CompilerResultsLog:   [4/4] Building_EscapeEditor.target
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: Total time in Parallel executor: 1.71 seconds
+[2020.10.16-04.23.27:472][860]CompilerResultsLog: Total execution time: 2.52 seconds
+[2020.10.16-04.23.27:472][860]LogMainFrame: MainFrame: Module compiling took 2.623 seconds
+[2020.10.16-04.23.27:498][860]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2020.10.16-04.23.27:499][860]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.16-04.23.27:534][860]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 3440 classes and 829 folders.
+[2020.10.16-04.23.27:534][860]Display: HotReload took  2.7s.
+[2020.10.16-04.23.31:334][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-04.23.31:356][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-04.23.31:356][ 88]PIE: New page: PIE session: BuildingEscape (Oct 15, 2020, 2:23:31 PM)
+[2020.10.16-04.23.31:356][ 88]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.23.31:363][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007266s)
+[2020.10.16-04.23.31:365][ 88]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-04.23.31:365][ 88]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5A3DC5C00), frame # 2017088
+[2020.10.16-04.23.31:365][ 88]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5A3410400), frame # 2017088
+[2020.10.16-04.23.31:365][ 88]LogPlayLevel: PIE: World Init took: (0.001912s)
+[2020.10.16-04.23.31:365][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.009330s)
+[2020.10.16-04.23.31:378][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.10.16-04.23.31:380][ 88]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-04.23.31:380][ 88]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-04.23.31:380][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-04.23.31:380][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-04.23.31:380][ 88]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-04.23.31:380][ 88]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-04.23.31:380][ 88]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-04.23.31:380][ 88]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-04.23.31:381][ 88]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-04.23.31:381][ 88]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-04.23.31:386][ 88]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-04.23.31:386][ 88]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-04.23.31:405][ 88]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-04.23.31:406][ 88]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-04.23.31:406][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-04.23.31:406][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-04.23.31:406][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-04.23.31:421][ 88]LogInit: FAudioDevice initialized.
+[2020.10.16-04.23.31:429][ 88]LogLoad: Game class is 'GameModeBase'
+[2020.10.16-04.23.31:430][ 88]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.15-21.23.31
+[2020.10.16-04.23.31:430][ 88]LogWorld: Bringing up level for play took: 0.001205
+[2020.10.16-04.23.31:431][ 88]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.10.16-04.23.31:433][ 88]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-04.23.31:433][ 88]PIE: Server logged in
+[2020.10.16-04.23.31:435][ 88]PIE: Play in editor total start time 0.083 seconds.
+[2020.10.16-04.24.03:167][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.24.03:167][989]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.24.03:167][989]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-04.24.03:167][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.24.03:183][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-04.24.03:185][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.24.03:224][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.24.03:225][989]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5A3410400), frame # 2018989
+[2020.10.16-04.24.03:225][989]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5A3DC5C00), frame # 2018989
+[2020.10.16-04.24.03:226][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.10.16-04.24.03:382][996]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.10.16-04.26.38:550][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.10.16-04.26.38:552][701]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/BuildingEscape' took 0.018
+[2020.10.16-04.28.05:612][ 70]Candidate modules for hot reload:
+[2020.10.16-04.28.05:612][ 70]  Building_Escape
+[2020.10.16-04.28.05:613][ 70]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Building_Escape,2714 Building_EscapeEditor Win64 Development -Project="C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject" "C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject"  -IgnoreJunk]
+[2020.10.16-04.28.05:615][ 70]Warning: Starting HotReload took  0.0s.
+[2020.10.16-04.28.14:961][613]CompilerResultsLog: New page: Compilation - Oct 15, 2020, 2:28:14 PM
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape).
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: Parsing headers for Building_EscapeEditor
+[2020.10.16-04.28.14:962][613]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape.uproject" "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Building_EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Beast Mode\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: Reflection code generated for Building_EscapeEditor in 6.4963145 seconds
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: Building Building_EscapeEditor...
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Building_EscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: Building 5 actions with 12 processes...
+[2020.10.16-04.28.14:962][613]CompilerResultsLog:   [1/5] OpenDoor.gen.cpp
+[2020.10.16-04.28.14:962][613]CompilerResultsLog:   [2/5] OpenDoor.cpp
+[2020.10.16-04.28.14:962][613]CompilerResultsLog:   [3/5] UE4Editor-Building_Escape-2714.lib
+[2020.10.16-04.28.14:962][613]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-2714.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-2714.exp
+[2020.10.16-04.28.14:962][613]CompilerResultsLog:   [4/5] UE4Editor-Building_Escape-2714.dll
+[2020.10.16-04.28.14:962][613]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-2714.suppressed.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-2714.suppressed.exp
+[2020.10.16-04.28.14:962][613]CompilerResultsLog:   [5/5] Building_EscapeEditor.target
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: Total time in Parallel executor: 1.83 seconds
+[2020.10.16-04.28.14:962][613]CompilerResultsLog: Total execution time: 9.26 seconds
+[2020.10.16-04.28.14:962][613]LogMainFrame: MainFrame: Module compiling took 9.354 seconds
+[2020.10.16-04.28.14:987][613]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2020.10.16-04.28.14:987][613]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.16-04.28.15:026][613]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 3440 classes and 829 folders.
+[2020.10.16-04.28.15:026][613]Display: HotReload took  9.4s.
+[2020.10.16-04.28.17:473][757]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-04.28.17:493][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-04.28.17:493][757]PIE: New page: PIE session: BuildingEscape (Oct 15, 2020, 2:28:17 PM)
+[2020.10.16-04.28.17:493][757]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.28.17:500][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006142s)
+[2020.10.16-04.28.17:501][757]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-04.28.17:501][757]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5D4936C00), frame # 2032757
+[2020.10.16-04.28.17:501][757]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5BD29C180), frame # 2032757
+[2020.10.16-04.28.17:501][757]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2020.10.16-04.28.17:501][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.007558s)
+[2020.10.16-04.28.17:512][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.10.16-04.28.17:514][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-04.28.17:514][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-04.28.17:514][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-04.28.17:514][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-04.28.17:514][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-04.28.17:514][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-04.28.17:514][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-04.28.17:514][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-04.28.17:514][757]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-04.28.17:514][757]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-04.28.17:519][757]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-04.28.17:519][757]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-04.28.17:538][757]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-04.28.17:539][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-04.28.17:539][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-04.28.17:539][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-04.28.17:539][757]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-04.28.17:553][757]LogInit: FAudioDevice initialized.
+[2020.10.16-04.28.17:562][757]LogLoad: Game class is 'GameModeBase'
+[2020.10.16-04.28.17:563][757]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.15-21.28.17
+[2020.10.16-04.28.17:564][757]LogWorld: Bringing up level for play took: 0.001010
+[2020.10.16-04.28.17:564][757]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.10.16-04.28.17:566][757]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-04.28.17:566][757]PIE: Server logged in
+[2020.10.16-04.28.17:567][757]PIE: Play in editor total start time 0.077 seconds.
+[2020.10.16-04.28.30:025][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.28.30:025][502]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.28.30:026][502]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-04.28.30:026][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.28.30:038][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-04.28.30:039][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.28.30:071][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.28.30:072][502]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5BD29C180), frame # 2033502
+[2020.10.16-04.28.30:072][502]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5D4936C00), frame # 2033502
+[2020.10.16-04.28.30:073][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.16-04.28.30:228][509]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.10.16-04.38.00:266][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.10.16-04.38.00:268][454]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/BuildingEscape' took 0.020
+[2020.10.16-04.42.07:600][913]Candidate modules for hot reload:
+[2020.10.16-04.42.07:600][913]  Building_Escape
+[2020.10.16-04.42.07:600][913]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Building_Escape,3308 Building_EscapeEditor Win64 Development -Project="C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject" "C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject"  -IgnoreJunk]
+[2020.10.16-04.42.07:602][913]Warning: Starting HotReload took  0.0s.
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: New page: Compilation - Oct 15, 2020, 2:42:16 PM
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape).
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: Parsing headers for Building_EscapeEditor
+[2020.10.16-04.42.16:767][448]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape.uproject" "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Building_EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Beast Mode\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: Reflection code generated for Building_EscapeEditor in 6.3840236 seconds
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: Building Building_EscapeEditor...
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Building_EscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.42.16:767][448]CompilerResultsLog: Building 5 actions with 12 processes...
+[2020.10.16-04.42.16:767][448]CompilerResultsLog:   [1/5] OpenDoor.cpp
+[2020.10.16-04.42.16:767][448]CompilerResultsLog:   [2/5] OpenDoor.gen.cpp
+[2020.10.16-04.42.16:768][448]CompilerResultsLog:   [3/5] UE4Editor-Building_Escape-3308.lib
+[2020.10.16-04.42.16:768][448]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-3308.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-3308.exp
+[2020.10.16-04.42.16:768][448]CompilerResultsLog:   [4/5] UE4Editor-Building_Escape-3308.dll
+[2020.10.16-04.42.16:768][448]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-3308.suppressed.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-3308.suppressed.exp
+[2020.10.16-04.42.16:768][448]CompilerResultsLog:   [5/5] Building_EscapeEditor.target
+[2020.10.16-04.42.16:768][448]CompilerResultsLog: Total time in Parallel executor: 1.79 seconds
+[2020.10.16-04.42.16:768][448]CompilerResultsLog: Total execution time: 9.07 seconds
+[2020.10.16-04.42.16:768][448]LogMainFrame: MainFrame: Module compiling took 9.172 seconds
+[2020.10.16-04.42.16:790][448]LogClass: Could not find existing class OpenDoor in package /Script/Building_Escape for HotReload, assuming new class
+[2020.10.16-04.42.16:792][448]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2020.10.16-04.42.16:797][448]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2020.10.16-04.42.16:798][448]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.16-04.42.16:836][448]LogContentBrowser: Native class hierarchy populated in 0.0124 seconds. Added 3440 classes and 829 folders.
+[2020.10.16-04.42.16:836][448]Display: HotReload took  9.2s.
+[2020.10.16-04.42.20:792][683]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-04.42.20:815][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-04.42.20:815][683]PIE: New page: PIE session: BuildingEscape (Oct 15, 2020, 2:42:20 PM)
+[2020.10.16-04.42.20:815][683]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.42.20:822][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007410s)
+[2020.10.16-04.42.20:824][683]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-04.42.20:824][683]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D673655C00), frame # 2077683
+[2020.10.16-04.42.20:824][683]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D6738D4F40), frame # 2077683
+[2020.10.16-04.42.20:824][683]LogPlayLevel: PIE: World Init took: (0.001632s)
+[2020.10.16-04.42.20:824][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.009210s)
+[2020.10.16-04.42.20:837][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.16-04.42.20:839][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-04.42.20:839][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-04.42.20:839][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-04.42.20:839][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-04.42.20:839][683]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-04.42.20:839][683]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-04.42.20:839][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-04.42.20:839][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-04.42.20:839][683]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-04.42.20:839][683]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-04.42.20:844][683]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-04.42.20:845][683]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-04.42.20:864][683]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-04.42.20:864][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-04.42.20:864][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-04.42.20:864][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-04.42.20:865][683]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-04.42.20:879][683]LogInit: FAudioDevice initialized.
+[2020.10.16-04.42.20:889][683]LogLoad: Game class is 'GameModeBase'
+[2020.10.16-04.42.20:890][683]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.15-21.42.20
+[2020.10.16-04.42.20:890][683]LogWorld: Bringing up level for play took: 0.001053
+[2020.10.16-04.42.20:890][683]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.10.16-04.42.20:892][683]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-04.42.20:893][683]PIE: Server logged in
+[2020.10.16-04.42.20:894][683]PIE: Play in editor total start time 0.083 seconds.
+[2020.10.16-04.42.51:409][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.42.51:409][512]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.42.51:409][512]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-04.42.51:409][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.42.51:421][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-04.42.51:423][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.42.51:457][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.42.51:457][512]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D6738D4F40), frame # 2079512
+[2020.10.16-04.42.51:458][512]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D673655C00), frame # 2079512
+[2020.10.16-04.42.51:459][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.16-04.42.51:621][519]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.10.16-04.42.53:346][622]Candidate modules for hot reload:
+[2020.10.16-04.42.53:346][622]  Building_Escape
+[2020.10.16-04.42.53:346][622]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Building_Escape,5571 Building_EscapeEditor Win64 Development -Project="C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject" "C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject"  -IgnoreJunk]
+[2020.10.16-04.42.53:349][622]Warning: Starting HotReload took  0.0s.
+[2020.10.16-04.42.55:234][720]CompilerResultsLog: New page: Compilation - Oct 15, 2020, 2:42:55 PM
+[2020.10.16-04.42.55:234][720]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape).
+[2020.10.16-04.42.55:234][720]CompilerResultsLog: Building Building_EscapeEditor...
+[2020.10.16-04.42.55:234][720]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.16-04.42.55:234][720]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.42.55:234][720]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.10.16-04.42.55:234][720]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.10.16-04.42.55:235][720]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.10.16-04.42.55:235][720]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.10.16-04.42.55:235][720]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Building_EscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.10.16-04.42.55:235][720]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.42.55:235][720]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.10.16-04.42.55:235][720]CompilerResultsLog:   [1/3] UE4Editor-Building_Escape-5571.lib
+[2020.10.16-04.42.55:235][720]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-5571.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-5571.exp
+[2020.10.16-04.42.55:235][720]CompilerResultsLog:   [2/3] UE4Editor-Building_Escape-5571.dll
+[2020.10.16-04.42.55:235][720]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-5571.suppressed.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-5571.suppressed.exp
+[2020.10.16-04.42.55:235][720]CompilerResultsLog:   [3/3] Building_EscapeEditor.target
+[2020.10.16-04.42.55:235][720]CompilerResultsLog: Total time in Parallel executor: 0.98 seconds
+[2020.10.16-04.42.55:235][720]CompilerResultsLog: Total execution time: 1.79 seconds
+[2020.10.16-04.42.55:235][720]LogMainFrame: MainFrame: Module compiling took 1.892 seconds
+[2020.10.16-04.42.55:258][720]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2020.10.16-04.42.55:259][720]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.16-04.42.55:294][720]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 3440 classes and 829 folders.
+[2020.10.16-04.42.55:294][720]Display: HotReload took  2.0s.
+[2020.10.16-04.42.58:028][884]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-04.42.58:049][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-04.42.58:050][884]PIE: New page: PIE session: BuildingEscape (Oct 15, 2020, 2:42:58 PM)
+[2020.10.16-04.42.58:078][884]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.42.58:088][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010328s)
+[2020.10.16-04.42.58:089][884]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-04.42.58:089][884]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5F33CF600), frame # 2079884
+[2020.10.16-04.42.58:089][884]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5A3412D40), frame # 2079884
+[2020.10.16-04.42.58:089][884]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2020.10.16-04.42.58:089][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.011750s)
+[2020.10.16-04.42.58:102][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.10.16-04.42.58:104][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-04.42.58:104][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-04.42.58:104][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-04.42.58:104][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-04.42.58:104][884]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-04.42.58:104][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-04.42.58:104][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-04.42.58:104][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-04.42.58:104][884]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-04.42.58:104][884]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-04.42.58:108][884]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-04.42.58:108][884]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-04.42.58:125][884]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-04.42.58:125][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-04.42.58:125][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-04.42.58:125][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-04.42.58:126][884]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-04.42.58:139][884]LogInit: FAudioDevice initialized.
+[2020.10.16-04.42.58:149][884]LogLoad: Game class is 'GameModeBase'
+[2020.10.16-04.42.58:150][884]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.15-21.42.58
+[2020.10.16-04.42.58:151][884]LogWorld: Bringing up level for play took: 0.000867
+[2020.10.16-04.42.58:151][884]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.10.16-04.42.58:152][884]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-04.42.58:153][884]PIE: Server logged in
+[2020.10.16-04.42.58:153][884]PIE: Play in editor total start time 0.107 seconds.
+[2020.10.16-04.43.08:849][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.43.08:849][523]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.43.08:849][523]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-04.43.08:850][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.43.08:863][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-04.43.08:865][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.43.08:900][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.43.08:901][523]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5A3412D40), frame # 2080523
+[2020.10.16-04.43.08:901][523]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5F33CF600), frame # 2080523
+[2020.10.16-04.43.08:902][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.16-04.43.09:064][530]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.10.16-04.43.57:798][ 86]Candidate modules for hot reload:
+[2020.10.16-04.43.57:798][ 86]  Building_Escape
+[2020.10.16-04.43.57:798][ 86]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Building_Escape,1015 Building_EscapeEditor Win64 Development -Project="C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject" "C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject"  -IgnoreJunk]
+[2020.10.16-04.43.57:800][ 86]Warning: Starting HotReload took  0.0s.
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: New page: Compilation - Oct 15, 2020, 2:44:00 PM
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape).
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: Building Building_EscapeEditor...
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Building_EscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.10.16-04.44.00:235][217]CompilerResultsLog:   [1/4] OpenDoor.cpp
+[2020.10.16-04.44.00:235][217]CompilerResultsLog:   [2/4] UE4Editor-Building_Escape-1015.lib
+[2020.10.16-04.44.00:235][217]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-1015.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-1015.exp
+[2020.10.16-04.44.00:235][217]CompilerResultsLog:   [3/4] UE4Editor-Building_Escape-1015.dll
+[2020.10.16-04.44.00:235][217]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-1015.suppressed.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-1015.suppressed.exp
+[2020.10.16-04.44.00:235][217]CompilerResultsLog:   [4/4] Building_EscapeEditor.target
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: Total time in Parallel executor: 1.55 seconds
+[2020.10.16-04.44.00:235][217]CompilerResultsLog: Total execution time: 2.35 seconds
+[2020.10.16-04.44.00:235][217]LogMainFrame: MainFrame: Module compiling took 2.442 seconds
+[2020.10.16-04.44.00:259][217]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2020.10.16-04.44.00:260][217]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.16-04.44.00:296][217]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3440 classes and 829 folders.
+[2020.10.16-04.44.00:296][217]Display: HotReload took  2.5s.
+[2020.10.16-04.44.01:544][290]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-04.44.01:566][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-04.44.01:566][290]PIE: New page: PIE session: BuildingEscape (Oct 15, 2020, 2:44:01 PM)
+[2020.10.16-04.44.01:566][290]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.44.01:572][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006322s)
+[2020.10.16-04.44.01:574][290]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-04.44.01:574][290]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5BCA6E800), frame # 2083290
+[2020.10.16-04.44.01:574][290]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D671E77600), frame # 2083290
+[2020.10.16-04.44.01:574][290]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2020.10.16-04.44.01:574][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.008173s)
+[2020.10.16-04.44.01:587][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.16-04.44.01:588][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-04.44.01:588][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-04.44.01:589][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-04.44.01:589][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-04.44.01:589][290]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-04.44.01:589][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-04.44.01:589][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-04.44.01:589][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-04.44.01:589][290]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-04.44.01:589][290]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-04.44.01:592][290]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-04.44.01:592][290]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-04.44.01:613][290]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-04.44.01:613][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-04.44.01:613][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-04.44.01:613][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-04.44.01:614][290]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-04.44.01:627][290]LogInit: FAudioDevice initialized.
+[2020.10.16-04.44.01:637][290]LogLoad: Game class is 'GameModeBase'
+[2020.10.16-04.44.01:638][290]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.15-21.44.01
+[2020.10.16-04.44.01:638][290]LogWorld: Bringing up level for play took: 0.000906
+[2020.10.16-04.44.01:638][290]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.10.16-04.44.01:640][290]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-04.44.01:640][290]PIE: Server logged in
+[2020.10.16-04.44.01:641][290]PIE: Play in editor total start time 0.08 seconds.
+[2020.10.16-04.44.11:089][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.44.11:089][854]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.44.11:089][854]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-04.44.11:090][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.44.11:107][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-04.44.11:108][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.44.11:156][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.44.11:157][854]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D671E77600), frame # 2083854
+[2020.10.16-04.44.11:157][854]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5BCA6E800), frame # 2083854
+[2020.10.16-04.44.11:159][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.10.16-04.44.11:321][861]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.10.16-04.45.52:307][742]Candidate modules for hot reload:
+[2020.10.16-04.45.52:307][742]  Building_Escape
+[2020.10.16-04.45.52:307][742]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Building_Escape,1646 Building_EscapeEditor Win64 Development -Project="C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject" "C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject"  -IgnoreJunk]
+[2020.10.16-04.45.52:309][742]Warning: Starting HotReload took  0.0s.
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: New page: Compilation - Oct 15, 2020, 2:46:01 PM
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape).
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: Parsing headers for Building_EscapeEditor
+[2020.10.16-04.46.01:526][280]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape.uproject" "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Building_EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Beast Mode\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: Reflection code generated for Building_EscapeEditor in 6.5550102 seconds
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: Building Building_EscapeEditor...
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Building_EscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.10.16-04.46.01:526][280]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.46.01:527][280]CompilerResultsLog: Building 5 actions with 12 processes...
+[2020.10.16-04.46.01:527][280]CompilerResultsLog:   [1/5] OpenDoor.cpp
+[2020.10.16-04.46.01:527][280]CompilerResultsLog:   [2/5] OpenDoor.gen.cpp
+[2020.10.16-04.46.01:527][280]CompilerResultsLog:   [3/5] UE4Editor-Building_Escape-1646.lib
+[2020.10.16-04.46.01:527][280]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-1646.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-1646.exp
+[2020.10.16-04.46.01:527][280]CompilerResultsLog:   [4/5] UE4Editor-Building_Escape-1646.dll
+[2020.10.16-04.46.01:527][280]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-1646.suppressed.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-1646.suppressed.exp
+[2020.10.16-04.46.01:527][280]CompilerResultsLog:   [5/5] Building_EscapeEditor.target
+[2020.10.16-04.46.01:527][280]CompilerResultsLog: Total time in Parallel executor: 1.75 seconds
+[2020.10.16-04.46.01:527][280]CompilerResultsLog: Total execution time: 9.13 seconds
+[2020.10.16-04.46.01:527][280]LogMainFrame: MainFrame: Module compiling took 9.223 seconds
+[2020.10.16-04.46.01:549][280]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2020.10.16-04.46.01:550][280]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.16-04.46.01:589][280]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 3440 classes and 829 folders.
+[2020.10.16-04.46.01:590][280]Display: HotReload took  9.3s.
+[2020.10.16-04.46.03:300][382]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-04.46.03:322][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-04.46.03:322][382]PIE: New page: PIE session: BuildingEscape (Oct 15, 2020, 2:46:03 PM)
+[2020.10.16-04.46.03:356][382]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.46.03:366][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009170s)
+[2020.10.16-04.46.03:367][382]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-04.46.03:367][382]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D654E2EA00), frame # 2090382
+[2020.10.16-04.46.03:367][382]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5A3410B80), frame # 2090382
+[2020.10.16-04.46.03:368][382]LogPlayLevel: PIE: World Init took: (0.001940s)
+[2020.10.16-04.46.03:368][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.011415s)
+[2020.10.16-04.46.03:382][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.10.16-04.46.03:384][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-04.46.03:384][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-04.46.03:384][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-04.46.03:384][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-04.46.03:384][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-04.46.03:384][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-04.46.03:384][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-04.46.03:384][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-04.46.03:385][382]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-04.46.03:385][382]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-04.46.03:391][382]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-04.46.03:391][382]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-04.46.03:423][382]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-04.46.03:423][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-04.46.03:423][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-04.46.03:423][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-04.46.03:423][382]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-04.46.03:441][382]LogInit: FAudioDevice initialized.
+[2020.10.16-04.46.03:454][382]LogLoad: Game class is 'GameModeBase'
+[2020.10.16-04.46.03:456][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.15-21.46.03
+[2020.10.16-04.46.03:457][382]LogWorld: Bringing up level for play took: 0.001585
+[2020.10.16-04.46.03:457][382]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.10.16-04.46.03:460][382]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-04.46.03:461][382]PIE: Server logged in
+[2020.10.16-04.46.03:462][382]PIE: Play in editor total start time 0.144 seconds.
+[2020.10.16-04.46.54:388][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.46.54:388][432]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.46.54:388][432]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-04.46.54:389][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.46.54:399][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-04.46.54:401][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.46.54:446][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.46.54:447][432]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5A3410B80), frame # 2093432
+[2020.10.16-04.46.54:447][432]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D654E2EA00), frame # 2093432
+[2020.10.16-04.46.54:448][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.16-04.46.54:612][439]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.10.16-04.50.41:423][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.10.16-04.50.41:490][544]LogSavePackage: Moving '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Saved/BuildingEscape_Auto5A31BC399493F34F27976DDBABC0964ED.tmp' to '../../../../../../Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Saved/Autosaves/Game/Maps/BuildingEscape_Auto5.umap'
+[2020.10.16-04.50.41:498][544]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/BuildingEscape' took 0.093
+[2020.10.16-04.50.41:498][544]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.093
+[2020.10.16-04.54.52:487][890]Candidate modules for hot reload:
+[2020.10.16-04.54.52:487][890]  Building_Escape
+[2020.10.16-04.54.52:487][890]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Building_Escape,9090 Building_EscapeEditor Win64 Development -Project="C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject" "C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject"  -IgnoreJunk]
+[2020.10.16-04.54.52:490][890]Warning: Starting HotReload took  0.0s.
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: New page: Compilation - Oct 15, 2020, 2:55:01 PM
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape).
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: Parsing headers for Building_EscapeEditor
+[2020.10.16-04.55.01:764][430]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape.uproject" "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Building_EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Beast Mode\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: Reflection code generated for Building_EscapeEditor in 6.3881677 seconds
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: Building Building_EscapeEditor...
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Building_EscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.55.01:764][430]CompilerResultsLog: Building 6 actions with 12 processes...
+[2020.10.16-04.55.01:764][430]CompilerResultsLog:   [1/6] Building_Escape.init.gen.cpp
+[2020.10.16-04.55.01:764][430]CompilerResultsLog:   [2/6] OpenDoor.cpp
+[2020.10.16-04.55.01:764][430]CompilerResultsLog:   [3/6] OpenDoor.gen.cpp
+[2020.10.16-04.55.01:764][430]CompilerResultsLog:   [4/6] UE4Editor-Building_Escape-9090.lib
+[2020.10.16-04.55.01:764][430]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-9090.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-9090.exp
+[2020.10.16-04.55.01:764][430]CompilerResultsLog:   [5/6] UE4Editor-Building_Escape-9090.dll
+[2020.10.16-04.55.01:764][430]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-9090.suppressed.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-9090.suppressed.exp
+[2020.10.16-04.55.01:764][430]CompilerResultsLog:   [6/6] Building_EscapeEditor.target
+[2020.10.16-04.55.01:765][430]CompilerResultsLog: Total time in Parallel executor: 1.83 seconds
+[2020.10.16-04.55.01:765][430]CompilerResultsLog: Total execution time: 9.18 seconds
+[2020.10.16-04.55.01:765][430]LogMainFrame: MainFrame: Module compiling took 9.281 seconds
+[2020.10.16-04.55.01:790][430]LogClass: Could not find existing class OpenDoor in package /Script/Building_Escape for HotReload, assuming new class
+[2020.10.16-04.55.01:793][430]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2020.10.16-04.55.01:798][430]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2020.10.16-04.55.01:799][430]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.16-04.55.01:834][430]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3440 classes and 829 folders.
+[2020.10.16-04.55.01:834][430]Display: HotReload took  9.4s.
+[2020.10.16-04.55.03:328][519]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-04.55.03:349][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-04.55.03:349][519]PIE: New page: PIE session: BuildingEscape (Oct 15, 2020, 2:55:03 PM)
+[2020.10.16-04.55.03:349][519]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.55.03:355][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006304s)
+[2020.10.16-04.55.03:356][519]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-04.55.03:357][519]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5AB57F000), frame # 2119519
+[2020.10.16-04.55.03:357][519]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5A3411800), frame # 2119519
+[2020.10.16-04.55.03:357][519]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2020.10.16-04.55.03:357][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.007928s)
+[2020.10.16-04.55.03:369][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.16-04.55.03:371][519]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-04.55.03:371][519]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-04.55.03:371][519]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-04.55.03:371][519]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-04.55.03:371][519]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-04.55.03:371][519]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-04.55.03:371][519]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-04.55.03:371][519]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-04.55.03:371][519]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-04.55.03:371][519]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-04.55.03:377][519]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-04.55.03:377][519]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-04.55.03:395][519]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-04.55.03:395][519]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-04.55.03:395][519]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-04.55.03:395][519]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-04.55.03:396][519]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-04.55.03:409][519]LogInit: FAudioDevice initialized.
+[2020.10.16-04.55.03:416][519]LogLoad: Game class is 'GameModeBase'
+[2020.10.16-04.55.03:417][519]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.15-21.55.03
+[2020.10.16-04.55.03:418][519]LogWorld: Bringing up level for play took: 0.000930
+[2020.10.16-04.55.03:418][519]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.10.16-04.55.03:419][519]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-04.55.03:420][519]PIE: Server logged in
+[2020.10.16-04.55.03:420][519]PIE: Play in editor total start time 0.075 seconds.
+[2020.10.16-04.55.12:884][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.55.12:884][ 84]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.55.12:884][ 84]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-04.55.12:884][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.55.12:897][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-04.55.12:899][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.55.12:915][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.55.12:940][ 84]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5A3411800), frame # 2120084
+[2020.10.16-04.55.12:940][ 84]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5AB57F000), frame # 2120084
+[2020.10.16-04.55.12:941][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.10.16-04.55.13:104][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.10.16-04.55.17:471][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2020.10.16-04.56.51:537][564]Candidate modules for hot reload:
+[2020.10.16-04.56.51:537][564]  Building_Escape
+[2020.10.16-04.56.51:537][564]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Building_Escape,8709 Building_EscapeEditor Win64 Development -Project="C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject" "C:/Users/Beast Mode/Desktop/C++ Projects/Building_Escape/Building_Escape.uproject"  -IgnoreJunk]
+[2020.10.16-04.56.51:539][564]Warning: Starting HotReload took  0.0s.
+[2020.10.16-04.57.01:294][133]CompilerResultsLog: New page: Compilation - Oct 15, 2020, 2:57:01 PM
+[2020.10.16-04.57.01:294][133]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape).
+[2020.10.16-04.57.01:294][133]CompilerResultsLog: Parsing headers for Building_EscapeEditor
+[2020.10.16-04.57.01:294][133]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Building_Escape.uproject" "C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Building_EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Beast Mode\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: Reflection code generated for Building_EscapeEditor in 6.9602088 seconds
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: Building Building_EscapeEditor...
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Building_EscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: [Upgrade]
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: Building 6 actions with 12 processes...
+[2020.10.16-04.57.01:295][133]CompilerResultsLog:   [1/6] OpenDoor.cpp
+[2020.10.16-04.57.01:295][133]CompilerResultsLog:   [2/6] Building_Escape.init.gen.cpp
+[2020.10.16-04.57.01:295][133]CompilerResultsLog:   [3/6] OpenDoor.gen.cpp
+[2020.10.16-04.57.01:295][133]CompilerResultsLog:   [4/6] UE4Editor-Building_Escape-8709.lib
+[2020.10.16-04.57.01:295][133]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-8709.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-8709.exp
+[2020.10.16-04.57.01:295][133]CompilerResultsLog:   [5/6] UE4Editor-Building_Escape-8709.dll
+[2020.10.16-04.57.01:295][133]CompilerResultsLog:      Creating library C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-8709.suppressed.lib and object C:\Users\Beast Mode\Desktop\C++ Projects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\UE4Editor-Building_Escape-8709.suppressed.exp
+[2020.10.16-04.57.01:295][133]CompilerResultsLog:   [6/6] Building_EscapeEditor.target
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: Total time in Parallel executor: 1.77 seconds
+[2020.10.16-04.57.01:295][133]CompilerResultsLog: Total execution time: 9.66 seconds
+[2020.10.16-04.57.01:295][133]LogMainFrame: MainFrame: Module compiling took 9.762 seconds
+[2020.10.16-04.57.01:319][133]LogClass: Could not find existing class OpenDoor in package /Script/Building_Escape for HotReload, assuming new class
+[2020.10.16-04.57.01:322][133]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2020.10.16-04.57.01:328][133]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2020.10.16-04.57.01:329][133]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.16-04.57.01:365][133]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 3440 classes and 829 folders.
+[2020.10.16-04.57.01:365][133]Display: HotReload took  9.8s.
+[2020.10.16-04.57.20:431][276]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-04.57.20:456][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-04.57.20:456][276]PIE: New page: PIE session: BuildingEscape (Oct 15, 2020, 2:57:20 PM)
+[2020.10.16-04.57.20:456][276]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.57.20:464][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007516s)
+[2020.10.16-04.57.20:465][276]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.10.16-04.57.20:465][276]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D654186A00), frame # 2127276
+[2020.10.16-04.57.20:465][276]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5BCBD8F40), frame # 2127276
+[2020.10.16-04.57.20:465][276]LogPlayLevel: PIE: World Init took: (0.001270s)
+[2020.10.16-04.57.20:465][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BuildingEscape.BuildingEscape to /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape (0.008938s)
+[2020.10.16-04.57.20:478][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.10.16-04.57.20:481][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.16-04.57.20:481][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.16-04.57.20:481][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.16-04.57.20:481][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.16-04.57.20:481][276]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.16-04.57.20:481][276]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.16-04.57.20:481][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.16-04.57.20:481][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.16-04.57.20:482][276]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.16-04.57.20:482][276]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.16-04.57.20:487][276]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.16-04.57.20:487][276]LogAudioMixer: Display: 1: FrontRight
+[2020.10.16-04.57.20:507][276]LogAudioMixer: Display: Using Audio Device Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.10.16-04.57.20:507][276]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.16-04.57.20:507][276]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.16-04.57.20:507][276]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.16-04.57.20:508][276]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.16-04.57.20:523][276]LogInit: FAudioDevice initialized.
+[2020.10.16-04.57.20:534][276]LogLoad: Game class is 'GameModeBase'
+[2020.10.16-04.57.20:535][276]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.10.15-21.57.20
+[2020.10.16-04.57.20:536][276]LogWorld: Bringing up level for play took: 0.000956
+[2020.10.16-04.57.20:536][276]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.10.16-04.57.20:537][276]LogTemp: Warning: Sphere_2 poistion in world is: X=-80.000 Y=-160.000 Z=70.000
+[2020.10.16-04.57.20:538][276]PIE: Server logged in
+[2020.10.16-04.57.20:538][276]PIE: Play in editor total start time 0.086 seconds.
+[2020.10.16-04.57.42:583][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.57.42:583][595]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BuildingEscape
+[2020.10.16-04.57.42:583][595]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-04.57.42:583][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.57.42:598][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-04.57.42:599][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-04.57.42:643][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-04.57.42:643][595]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5BCBD8F40), frame # 2128595
+[2020.10.16-04.57.42:644][595]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D654186A00), frame # 2128595
+[2020.10.16-04.57.42:645][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.10.16-04.57.42:810][602]LogPlayLevel: Display: Destroying online subsystem :Context_27
